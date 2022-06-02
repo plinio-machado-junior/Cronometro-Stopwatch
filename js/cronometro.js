@@ -1,4 +1,4 @@
-const cronometro = document.querySelector("#cronometro"); // local onde o cronometro (stopwatch) será exibido
+const cronometro = document.querySelector("#cronometro"); // local onde o cronômetro será exibido
 const startStopBtn = document.querySelector("#startStopBtn"); // botão para iniciar/pausar contagem
 const resetarBtn = document.querySelector("#resetarBtn"); // botão para resetar o cronômetro
 
